@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      App
+      App 1
     </>
   )
 }
